@@ -1,5 +1,5 @@
 require_relative 'spec_helper'
-
+require_relative '../app/model/show.rb'
 describe Show do
 
   after(:each) do
